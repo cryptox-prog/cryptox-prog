@@ -24,9 +24,6 @@
 ![Game Dev](https://img.shields.io/badge/Game%20Dev-111111?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-111111?style=for-the-badge&logo=vercel&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-111111?style=for-the-badge&logo=arm&logoColor=0091BD)
-![Security](https://img.shields.io/badge/Security-111111?style=for-the-badge&logo=protonvpn&logoColor=6D4AFF)
-
 ---
 
 <p>
